@@ -1,0 +1,19 @@
+{
+  "name": "face-reg",
+  "version": "1.0.0",
+  "description": "Simple Face Recoganition API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepgokul/face-recognizer.git"
+  },
+  "author": "Pradeep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pradeepgokul/face-recognizer/issues"
+  },
+  "homepage": "https://github.com/pradeepgokul/face-recognizer#readme"
+}
